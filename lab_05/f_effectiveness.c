@@ -1,0 +1,5 @@
+#ifndef F_EFFECTIVENESS_C
+#define F_EFFECTIVENESS_C
+
+#endif // F_EFFECTIVENESS_C
+
